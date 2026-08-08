@@ -1,0 +1,17 @@
+{
+  "name": "Svea IPTV",
+  "short_name": "Svea IPTV",
+  "description": "Sveriges Bästa IPTV Abonnemang - 15 000+ kanaler & VOD i 4K & HD",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

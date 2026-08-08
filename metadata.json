@@ -1,0 +1,6 @@
+{
+  "name": "Svea IPTV - Sveriges Bästa IPTV",
+  "description": "Högkonverterande hemsida för Svea IPTV med SEO för Sverige, paketpriser (199 SEK, 349 SEK, 499 SEK), WhatsApp-beställning och kundomdömen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

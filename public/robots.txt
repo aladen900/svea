@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://svea-iptv.com/sitemap.xml
